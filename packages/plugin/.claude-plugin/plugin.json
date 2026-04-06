@@ -1,0 +1,19 @@
+{
+  "name": "gamecodex",
+  "version": "0.1.1",
+  "description": "AI game dev co-pilot — 22 MCP tools, 150+ docs for MonoGame, Godot, and Phaser.",
+  "author": {
+    "name": "Shawn Benson"
+  },
+  "homepage": "https://gitlab.com/shawn-benson/GameCodex",
+  "repository": "https://gitlab.com/shawn-benson/GameCodex",
+  "license": "MIT",
+  "keywords": [
+    "gamedev",
+    "mcp",
+    "monogame",
+    "godot",
+    "phaser",
+    "ecs"
+  ]
+}
