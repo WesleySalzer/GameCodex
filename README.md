@@ -96,7 +96,7 @@ Every doc includes: typed code examples, "when to use" guidance, common pitfalls
 ## Development
 
 ```bash
-git clone https://gitlab.com/shawn-benson/GameCodex.git
+git clone https://github.com/WesleySalzer/GameCodex.git
 cd GameCodex
 npm install
 npm run build
